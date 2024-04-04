@@ -1,2 +1,2 @@
 # Compozent_Internship_Tasks
-This repository contains the resultant files for the tasks given in the internship.
+This repository contains the Required files for the tasks given in the internship.
